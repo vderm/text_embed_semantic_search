@@ -1,0 +1,24 @@
+[tool.poetry]
+name = "umap"
+version = "0.1.0"
+description = ""
+authors = ["Vasken Dermardiros <vdermardiros@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+umap-learn = {extras = ["plot"], version="^0.5.3"}
+faiss-gpu = "^1.7.2"
+torch = ">=2.0.0, !=2.0.1"
+transformers = {extras = ["sentencepiece"], version = "^4.31.0"}
+datasets = "^2.14.4"
+numpy = "^1.13"
+jupyter = "^1.0.0"
+langchain = "^0.0.268"
+python-frontmatter = "^1.0.0"
+matplotlib = "^3.7.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

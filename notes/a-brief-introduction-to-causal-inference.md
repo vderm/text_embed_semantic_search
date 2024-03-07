@@ -1,0 +1,208 @@
+---
+author:
+- Brady Neal
+categories: website
+draft: false
+lastmod: 2020-09-08 09:21:18-04:00
+slug: a_brief_introduction_to_causal_inference
+tags:
+- research
+- causality
+- uncertainty
+title: A Brief Introduction to Causal Inference
+links:
+- http://causalcourse.com
+- https://www.youtube.com/watch?v=gniZEb4ZVL8&feature=youtu.be
+---
+
+
+<http://causalcourse.com>
+
+<https://www.youtube.com/watch?v=gniZEb4ZVL8&feature=youtu.be>
+
+## What is causal inference {#what-is-causal-inference}
+
+- Infer the effect of one thing on another
+- Effect of treatment on a disease
+
+- Motivating example: Simpson's paradox
+- Correlation does not imply causation
+- Causation based on observed data
+
+
+## Simpson's paradox {#simpson-s-paradox}
+
+- New disease: Covid-27
+- Treatment T: "A"(0) or "B"(1) to minimize death
+  - "B" is much more scarce
+- Condition C: mild(0) or severe(1)
+- Outcome Y: alive(0) or dead(1)
+
+### Mortality rate table {#mortality-rate-table}
+
+![[2020-07-31_11-08-44_screenshot.png]]
+
+### Scenario 1 {#scenario-1}
+
+Condition is cause of treatment.
+
+- Doctors will tend to give treatment A to mild patients
+- B to severe patients
+
+High mortality rate in treatment B is likely because treatment B is given to
+people with severe conditions (more likely to die)
+
+![[2020-07-31_11-46-39_screenshot.png]]
+
+![[2020-07-31_11-48-55_screenshot.png]]
+
+
+### Scenario 2 {#scenario-2}
+
+Treatment is cause of condition.
+
+Because you had to wait for treatment B -> mild condition became severe.
+Treatment A is readily available -> mild condition remained mild.
+
+![[2020-07-31_11-48-12_screenshot.png]]
+
+![[2020-07-31_11-48-33_screenshot.png]]
+
+
+### Preference {#preference}
+
+We prefer B if condition is severe.
+We prefer A if scarcity of B is causing the severe case.
+
+
+## Correlation does not imply causation {#correlation-does-not-imply-causation}
+
+Sleeping with shoes on is strongly correlated with waking up with a headache
+
+Common cause: drinking the night before
+
+1. Shoe sleepers differ from non-shoe-sleepers in a key way
+    - most people who slept with shoes drank the night before
+    - most people who slept without shoes didn't drink the night before
+2. Confounding
+    - Association we observe (through drinking)
+    - Causal association (one to the other)
+    - Total association (e.g. correlation): mixture of causal and confounding
+        association
+
+![[2020-07-31_11-54-03_screenshot.png]]
+
+"Correlation = Causation" is a cognitive bias
+
+What \* is what is most readily available, motivated reasoning., motivated
+reasoning.
+
+![[2020-07-31_11-58-18_screenshot.png]]
+
+
+## What does imply causation? {#what-does-imply-causation}
+
+
+### Intuition {#intuition}
+
+- Potential outcomes: intuition
+    - inferring the effect of treatment/policy on some outcome
+
+![[2020-07-31_12-11-07_screenshot.png]]
+
+but what if you don't take pill, headache still goes away?
+
+
+### Notation {#notation}
+
+![[2020-07-31_12-13-02_screenshot.png]]
+
+
+### Fundamental problem of causal inference {#fundamental-problem-of-causal-inference}
+
+![[2020-07-31_12-13-31_screenshot.png]]
+
+If you don't take the action, you can't compute the causal effect (no data for
+that case!)
+
+![[2020-07-31_12-13-59_screenshot.png]]
+
+
+### Average treatment effect (ATE) {#average-treatment-effect--ate}
+
+![[2020-07-31_12-16-01_screenshot.png]]
+
+Not equal because of the confounding association!
+
+
+### Randomized control trials (RCT) {#randomized-control-trials--rct}
+
+Break the confounding association through a coin/flip etc.
+
+Shoe sleepers were mostly drunk. Better approach would be to go to their
+bedrooms, flip a coin, then decide to add shoes to sober people and do the same
+to remove shoes from drunk people.
+
+Makes drunk people equally distributed with shoes/no-shoes; shoes no longer has
+an effect.
+
+![[2020-07-31_12-20-50_screenshot.png]]
+
+
+## Observational studies {#observational-studies}
+
+The experiment is not ideal, includes confounding associations.
+
+Can't always randomize treatment:
+
+Ethical reasons
+: unethical to randomize people and make them smoke for
+    measuring the effects on lung cancer
+
+Infeasible
+: study effect of communism/capitalism on what would be the effect
+    on GDP -> would require you to be an ultimate dictator
+
+Impossible
+: change a living person's DNA for measuring effect on breast
+    cancer
+
+Convenient
+: cheaper than random trials, not know how to randomize properly
+
+
+### How do we measure causal effects in observational studies? {#how-do-we-measure-causal-effects-in-observational-studies}
+
+Solution: adjust/control for confounders (W)
+
+![[2020-07-31_13-13-57_screenshot.png]]
+
+Solution: backdoor adjustment (shaded: conditioning)
+
+- isolate the causal association
+
+![[2020-07-31_13-15-23_screenshot.png]]
+
+
+### Application to Covid-27 example {#application-to-covid-27-example}
+
+![[2020-07-31_13-18-05_screenshot.png]]
+
+[//begin]: # "Autogenerated link references for markdown compatibility"
+[[2020-07-31_11-08-44_screenshot.png]: ../attachments/Simpson's_paradox/2020-07-31_11-08-44_screenshot.png "2020-07-31_11-08-44_screenshot.png"
+[[2020-07-31_11-46-39_screenshot.png]: ../attachments/Simpson's_paradox/2020-07-31_11-46-39_screenshot.png "2020-07-31_11-46-39_screenshot.png"
+[[2020-07-31_11-48-55_screenshot.png]: ../attachments/Simpson's_paradox/2020-07-31_11-48-55_screenshot.png "2020-07-31_11-48-55_screenshot.png"
+[[2020-07-31_11-48-12_screenshot.png]: ../attachments/Simpson's_paradox/2020-07-31_11-48-12_screenshot.png "2020-07-31_11-48-12_screenshot.png"
+[[2020-07-31_11-48-33_screenshot.png]: ../attachments/Simpson's_paradox/2020-07-31_11-48-33_screenshot.png "2020-07-31_11-48-33_screenshot.png"
+[[2020-07-31_11-54-03_screenshot.png]: ../attachments/Correlation_does_not_imply_causation/2020-07-31_11-54-03_screenshot.png "2020-07-31_11-54-03_screenshot.png"
+[[2020-07-31_11-58-18_screenshot.png]: ../attachments/Correlation_does_not_imply_causation/2020-07-31_11-58-18_screenshot.png "2020-07-31_11-58-18_screenshot.png"
+[[2020-07-31_12-11-07_screenshot.png]: ../attachments/What_does_imply_causation/2020-07-31_12-11-07_screenshot.png "2020-07-31_12-11-07_screenshot.png"
+[[2020-07-31_12-13-02_screenshot.png]: ../attachments/What_does_imply_causation/2020-07-31_12-13-02_screenshot.png "2020-07-31_12-13-02_screenshot.png"
+[[2020-07-31_12-13-31_screenshot.png]: ../attachments/What_does_imply_causation/2020-07-31_12-13-31_screenshot.png "2020-07-31_12-13-31_screenshot.png"
+[[2020-07-31_12-13-59_screenshot.png]: ../attachments/What_does_imply_causation/2020-07-31_12-13-59_screenshot.png "2020-07-31_12-13-59_screenshot.png"
+[[2020-07-31_12-16-01_screenshot.png]: ../attachments/What_does_imply_causation/2020-07-31_12-16-01_screenshot.png "2020-07-31_12-16-01_screenshot.png"
+[[2020-07-31_12-20-50_screenshot.png]: ../attachments/What_does_imply_causation/2020-07-31_12-20-50_screenshot.png "2020-07-31_12-20-50_screenshot.png"
+[[2020-07-31_13-13-57_screenshot.png]: ../attachments/Observational_studies/2020-07-31_13-13-57_screenshot.png "2020-07-31_13-13-57_screenshot.png"
+[[2020-07-31_13-15-23_screenshot.png]: ../attachments/Observational_studies/2020-07-31_13-15-23_screenshot.png "2020-07-31_13-15-23_screenshot.png"
+[[2020-07-31_13-18-05_screenshot.png]: ../attachments/Observational_studies/2020-07-31_13-18-05_screenshot.png "2020-07-31_13-18-05_screenshot.png"
+[//end]: # "Autogenerated link references"

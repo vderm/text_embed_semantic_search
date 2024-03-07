@@ -1,0 +1,213 @@
+x 2023-01-03 2023-01-03 think of timesheets and how to put those in +timesheets @admin
+x 2023-01-03 2023-01-03 think of weekly schedule @admin
+x 2023-01-04 2023-01-03 weekly 1-on-1s or team meeting @admin
+x 2023-01-04 2023-01-03 year-in-review for next week @admin
+x 2023-01-04 2022-12-15 wrap-up modelica sim as openai compatible thing @code
+x 2023-01-05 2023-01-04 copy monthly tasks to here @organize
+x 2023-01-05 2023-01-04 review NODE and TIML work so far +yearKickOff +TIML +NODE @admin
+x 2023-01-05 2023-01-05 bk2 fdd example, chat with Chris Tetrault -> not worth it... +rapidIterationFramework @code due:2023-01-31
+x 2023-01-05 2023-01-05 employee ratings @admin
+x 2023-01-05 article notes in foam with zotero keys @organize
+x 2023-01-04 (A) modelica gym and codex to master @code due:2023-01-06
+x 2023-01-05 (A) email David with Carlos' reply -> need better actions +TIML @admin due:2023-01-06
+x 2023-01-03 (A) move excel dev plan to jira @organize
+x 2023-01-03 what to do with inbox? @organize
+x 2023-01-09 update readme.md to have inbox and todo in there @organize
+x 2023-01-05 (A) update status of services +rapidIterationFramework @review due:2023-01-31
+x 2023-01-10 talk to Marc-Olivier if I can call Optimus Prime from an endpoint @review
+x 2023-01-10 check contract for TIML; David thinks its till August 2022 @admin due:2023-01-13
+x 2023-01-10 follow-up with Marie-Christine +mitacs @admin
+x 2023-01-12 review Mathieu's work on tau @review
+x 2023-01-12 review Mitacs with JSV on timeline +mitacs @admin
+x 2023-01-16 mitacs $? +mitacs @admin
+x 2023-01-16 email Annie-Shan for Tania @admin
+x 2023-01-12 print head on stand for Annie-Shan
+x 2023-01-16 timesheets @admin
+x 2023-01-04 talk to Donald and Leah for Autobot @monitor
+x 2023-01-11 review Mitacs +mitacs @admin
+x 2023-01-11 finalize Mitacs with everyone and $ +mitacs @admin
+x 2023-01-17 review MLOps documentation @review due:2023-01-19
+x 2023-01-17 config list for architecture dev meeting [[config_file_exercise.md]] @admin
+x 2023-01-19 message David for 4-5 meeting +mila @admin
+x 2023-01-19 set fatma to speak to samuel @admin
+x 2023-01-18 update confluence page - include deprecated https://brainboxai.atlassian.net/wiki/spaces/SA/pages/692486279/Components+Inventory +architecture
+x 2023-01-18 number of zones per sleepcountry and their points @experiment
+x 2023-01-20 review work from consultants @review
+x 2023-01-19 set mathieu to speak to fahimeh @admin
+x 2023-01-20 schedule meeting with Samuel and Fatma +algo +gargamel
+x 2023-01-16 meet with Annie-Shan
+x 2023-01-25 Mila David update +mila @admin
+x 2023-01-25 review Mitacs +mitacs @admin
+x 2023-01-24 slides for AI/sales presentation @admin due:2023-01-27
+x 2023-01-26 slides for AI year in review @admin due:2023-01-27
+x 2023-01-19 Mila collab stuff +mila @admin
+x 2023-01-31 2023-01-26 finalize evaluation for Mathieu @admin due:2023-02-01
+x 2023-01-31 2023-01-26 finalize evaluation for Fatma @admin due:2023-02-01
+x 2023-01-31 2023-01-26 finalize evaluation for myself @admin due:2023-02-01
+x 2023-02-01 sign documents for Fatma @admin due:2023-02-01
+x 2023-02-01 template for reporting on research progress so others can follow and take-over (potentially parked) in codex @admin
+x 2023-01-25 research overview @admin due:2023-01-27
+x 2023-02-06 share journal template @admin
+x 2023-01-18 can we have the prediction service serve legacy stuff? +architecture
+x 2023-02-02 send Arthur timeseries -> day clusters -> colour code @experiment
+x 2023-02-06 write up for power stuff +power @reporting due:2023-01-06
+x 2023-02-06 review Vincent's journal +mila
+x 2023-02-08 read evaluations attentively @evaluations
+x 2023-02-02 check Gargamel environment `modelicaenv_py3.7.3` in Fatma's account in sim-2 20.04 LTS
+x 2022-12-19 early start line model -> Samuel, also see `BB_sysman.monitoring_algs` table @experiment
+x 2023-02-13 schedule AIR update with JS
+x 2023-02-16 proof read Fatma's paper
+x 2023-02-13 total research budget?
+x 2023-01-16 finish decay model @experiment
+x 2023-02-15 does tau fitted change with T_ext? show scatter plot @experiment
+x 2023-02-13 MITACS! +mitacs @admin due:2023-02-14
+x 2023-01-31 share data/info for Gaetan 1 bldg over a few weeks; structure of available data; missing data: how often, different between them (new bldg != iid to other); picture of RTUs +mila @admin
+x 2023-02-21 tau stuff report; add the joyplot thing
+x 2023-02-23 update dev plan @admin
+x 2023-01-05 (A) bk2 structure familiarity +rapidIterationFramework @review due:2023-01-31
+x 2023-01-31 fill project 1 for Gaetan <https://docs.google.com/document/d/1B8pQr80FjVHNpi2aD-TeSVDxR2J27-M8_BK8Py4WUEI/e[[j-2023-02-07]]
+x 2023-03-07 review Pierre-Luc's proposal
+x 2023-02-21 arguments of why / why not per project +mila @admin due:2023-03-08
+x 2023-03-07 dockerize Vincent's code
+x 2023-02-21 IP agreement with Antoine @admin
+x 2023-01-05 (A) real2env interface +rapidIterationFramework @code due:2023-01-31
+x 2023-03-20 regen gargamel client Gargamel Service Server An API that for querying actions from Gargamel genertic algorithm based optimal controller.  Code Version:1.0.0  Latest API Version: v1    # noqa: E501
+x 2023-03-20 finalize function in command service
+x 2023-01-05 (A) bk2 gargamel interface +MPC +rapidIterationFramework @experiment due:2023-01-31
+x 2023-03-21 review labels in Jira
+x 2023-03-24 sweep on scdv data, number of zones due:2023-03-24
+x 2023-02-23 pr https://git.brainboxai.net/controlkit/Prediction_Service_Core/-/merge_requests/6 due:2023-03-20
+x 2023-03-28 merge requirements to env.yml @gargamel
+x 2023-03-28 powerkit credentials @gargamel
+x 2023-03-28 powerkit master vs custom branch d2e96b7378cec730f56dfebf751e54388f123100 @gargamel
+x 2023-03-28 chat with Marc-Olivier @gargamel
+x 2023-03-29 research tag in jira
+x 2023-03-31 update jira
+x 2023-03-31 update timesheets
+x 2023-03-31 review contracts
+x 2023-03-31 script to run gargamel every 5 mins: get current time in unix timestamp ask for commands save to json, wc.json if failed, write wc_failed save log files too
+x 2023-04-12 add LVL-SleepCountry-0322 to sandbox
+x 2023-04-12 SRED reports @admin
+x 2023-04-17 bump gargamel on command service
+x 2023-04-14 schedule JS research meeting
+x 2023-04-17 ssh permission error to then sync poetry
+x 2023-04-18 linkedin message
+x 2023-03-22 https://git.brainboxai.net/productivity-tools/FastAPICookiecutter @review
+x 2023-03-29 traceback for 500 errors +gargamel
+x 2023-04-19 update data service +gargamel
+x 2023-04-17 config add +gargamel
+x 2023-04-12 decommission sim-2 (cancel)
+x 2023-04-13 internships due:2023-04-21 +mila
+x 2023-04-18 send more data for Jacob +mila @review
+x 2023-04-18 gaetan contract +mila @admin
+x 2023-04-18 gaetan statement of work +mila @review
+x 2023-04-21 gaetan contract + SoW +mila
+x 2023-04-17 client test using CodeWhisper +gargamel
+x 2023-04-17 algo test +gargamel
+x 2023-04-18 donna graph model +mila @review
+x 2023-04-17 it's gonna be may due:2023-05-01
+x 2023-03-30 https://brainboxai.atlassian.net/wiki/spaces/ALGO/pages/760152108/Algorithm+v2 +gargamel
+x 2023-04-21 updated service framework validation +gargamel
+x 2023-05-01 basic test for a class using AWS CodeWhisperer: can it create a mock @testing
+x 2023-05-02 micro-services experimental research; fastapi thought it would work a certain way, but it didn't. What was wrong with the first iteration or 2 of the data service (2 different approaches) +sred @admin - db backend - routers - schemas - data layer / business logic - db models - standards tested - fastapi helper - vscode extension + cookie cutter - see file BK 2.0 - V2 Development
+x 2023-05-05 api + gateway + service disappear
+x 2023-04-24 linear model alternatives for MC
+x 2023-05-02 find another single zone home for Vincent +mila
+x 2023-05-10 review applied project +mila @admin
+x 2023-05-03 client test failed +gargamel
+x 2023-05-16 CI/CD for gargamel service; just add a .gitlab-ci.yml file in the project from data service +gargamel +cicd
+x 2023-05-03 switch gargamel off if there's an error: `api/config/set_mode_for_algo` - target_mode -> "virtual" +gargamel
+x 2023-06-05 simple jupyter notebook for building class + data_service
+x 2023-06-07 just data for Maryam
+x 2023-06-12 2023-05-23 check runs +gargamel
+x 2023-06-14 2023-06-14 (A) fetch all data for bldg_id==96 (LVL-SleepCountry-0322) +gargamel
+x 2023-06-13 2023-06-01 practice using parallel
+x 2023-06-15 2023-06-14 write to David Rolnick to wrap up project +mila @admin
+x 2023-06-15 2023-05-04 s3 bucket for gargamel note:[Todo]-Note-20230612-172631.md
+x 2023-06-15 2023-06-15 slide for SDTC @admin
+x 2023-06-21 2023-06-19 (A) check datakit weather stuff -> cuz closest weather station might be off?
+x 2023-06-20 2023-06-19 (A) update blake's slides: linear regression animation
+x 2023-06-21 2023-06-15 draft out a project for the LLM (project Willis) +llm
+x 2023-06-21 2023-06-15 for Mathieu: the black box model may need to be correlated to exterior temperature?
+x 2023-06-27 2023-05-11 update config files +gargamel
+x 2023-06-27 2023-06-27 sign form for co-supervision +poly @admin
+x 2023-06-27 2023-06-27 bump gargamel feature branch with dev +gargamel
+x 2023-06-27 2023-05-11 add bldg_id==96 (LVL-SleepCountry-0322) +gargamel
+x 2023-06-28 2023-06-28 send Etienne data +poly
+x 2023-06-28 2023-06-28 ask to get Etienne access to office +poly
+x 2023-06-28 2023-04-21 (A) compare NODE vs what's in production -> follow-up on Fahimeh and Mathieu -> also use costs / time on CPU/GPU
+x 2023-06-28 2023-06-15 offload plan --> organize files + email @admin
+x 2023-06-29 2023-06-27 brainstorm LLM with Gaetan +mila @admin
+x 2023-07-04 2023-06-29 wrap up Autobot w/ Leah and Donald
+x 2023-07-05 2023-06-29 wrap up TIML project
+x 2023-07-05 2023-06-29 follow up with Amir on training procedure
+x 2023-07-04 2023-06-28 delete personal passwords from lastpass
+x 2023-07-11 2023-07-10 update GargamelServer return schema to match required on CommandService side  note:[Todo]-Note-20230710-120535.md +gargamel
+x 2023-07-13 2023-07-11 s3 credentials don't work +gargamel
+x 2023-07-13 2023-06-01 python map/reduce/filter functions
+x 2023-07-11 2023-07-06 external api https://brainboxai.atlassian.net/browse/ALGO-431
+x 2023-07-17 2023-07-13 missing current hs_measures in sandbox +gargamel
+x 2023-07-17 2023-06-28 (B) send Etienne simulator +poly -> MC will give him her laptop
+x 2023-07-17 2023-07-17 watch video on AWS Bedrock
+x 2023-07-17 2023-07-13 talk to Andy about Nunzio
+x 2023-07-18 2023-07-17 data fetch +gargamel
+x 2023-07-18 2023-07-17 mock fetch to be fixed +gargamel
+x 2023-07-18 2023-07-05 send Alain Lavoie example documents
+x 2023-07-18 2023-03-22 https://en.wikipedia.org/wiki/Being_and_Time +nunzio
+x 2023-07-18 2023-05-01 https://en.wikipedia.org/wiki/Destination:_Void +marc_oliver
+x 2023-07-18 2023-05-08 Climate pledge: https://brainboxai.sharepoint.com/sites/BrainBoxAI/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FBrainBoxAI%2FShared%20Documents%2F2030%20BrainBox%20AI%20pledge&p=true&ct=1683307241267&or=Teams%2DHL&ga=1
+x 2023-07-18 2023-05-10 optimize_task: async and response immediately. AWS has a 30 seconds time limit (closes) - might need to do something similar if gargamel_service takes too long + gargamel
+x 2023-07-18 2023-07-05 review NN things again, try to run it, https://www.tensorflow.org/probability/examples/Probabilistic_Layers_Regression
+x 2023-07-19 2023-07-17 why the logs are weird in gargamel? +gargamel
+x 2023-07-20 2023-07-19 monday 24th around closing time +gargamel ahmad, martin, arjun, jsv, fatma -> full supervision
+x 2023-07-20 2023-06-22 mitacs payment @admin
+x 2023-07-20 2023-07-20 (A) performance evaluations @admin due:2023-07-21
+x 2023-07-24 2023-07-16 link to online course -> on pocket
+x 2023-07-25 2023-07-17 send Alexia interactive visit thing -> on Nunzio's side
+x 2023-07-25 2023-07-16 backup bookmarks
+x 2023-07-26 2023-05-23 interesting code snippets? scott's work (all), node julia
+x 2023-07-27 2023-06-22 (A) test run +gargamel https://brainboxai.atlassian.net/wiki/spaces/ALGO/pages/840892438/External+Algorithms+Support+Gargamel
+x 2023-07-27 2023-07-25 gargamel api path: f"/building/{building_id}/context/{control_kit}/wavecounter/{wavecounter}/optimize" +gargamel
+x 2023-08-02 2023-06-22 mitacs payment @admin
+x 2023-08-02 2023-04-14 pierre-luc research project signature +mila @admin
+x 2023-08-02 2023-06-22 donna research project signature +mila @admin
+x 2023-08-03 2023-08-02 hugo theme for notes @organize due:2023-08-03
+x 2023-08-03 2023-08-02 or just use streamlit! @organize due:2023-08-03
+x 2023-08-03 2023-08-02 or even more dumb, use layouts in vscode.. one for todo, one for looking things up and one for reviewing
+x 2023-08-03 2023-08-02 move bbai notes to archive @organize due:2023-08-03
+x 2023-08-03 2023-08-03 update {{< figure src="/ox-hugo/2020-06-18_19-21-45_screenshot.png" >}} locations
+x 2023-08-04 2023-08-03 cheatsheet for foam: tables formatting, templates, insert pdf ref, embed notes `![[]]`
+x 2023-08-04 2023-08-03 rework [[memories.md]] into inbox -> add CV related topics @organize
+x 2022-09-25 make an author id for publication (https://orcid.org/0000-0001-5229-7764) +Publication
+x 2022-09-25 update publications list on github +Publication
+x 2022-09-30 schedule a mock interview tag:meta +InterviewPrep
+x 2022-09-30 subscribe to a q&a session tag:meta +InterviewPrep
+x 2022-10-15 go over Maria's email tag:meta +InterviewPrep
+x 2022-10-28 build the career profile tag:meta +InterviewPrep
+x 2022-10-28 have all publications at hand +Publication
+x 2022-12-14 Big O notation +Fundamentals
+x 2022-12-14 follow nvidia triton class +Serving
+x 2022-12-14 publish control article in ArXiV; nvm +Clerical +Publication
+x 2022-12-14 publish model article in ArXiV; nvm +Clerical +Publication
+x 2022-12-14 review work from udem class +InterviewPrep
+x 2022-12-14 update LinkedIn +Clerical
+x 2023-01-16 making models fast +Serving
+x 2023-08-08 2023-05-26 move this to normal notes location +admin
+x 2023-08-08 2023-05-26 https://www.hyperganic.com/
+x 2023-08-08 2023-05-26 3d printed shoes +art?
+x 2023-08-09 2023-07-31 (A) organize meeting with Mathieu + Pierre-Luc +mila @admin
+x 2023-08-09 2023-08-03 (A) merge robotics todos here? @organize
+x 2023-08-09 2023-08-03 (A) merge llm todos here? @organize
+x 2023-08-10 2023-08-09 (A) download the stable diffusion code from deeplearning.ai @learn +sd
+x 2023-08-14 2023-08-09 (A) run stable diffusion on desktop @learn +sd
+x 2023-08-14 2023-07-31 (A) notebooks so that I can replicate my experiments in Python using Poetry (each folder is independent) @admin
+x 2023-08-14 2023-08-04  https://www.deeplearning.ai/short-courses/?utm_source=pocket_saves deep dive @learn
+x 2023-08-14 2023-08-03 sync just the notes folder +beepberry @hobby
+x 2023-08-16 2023-12-01 open up model, troubleshoot, pytorch +Serving +MLModels @job_search @learn
+x 2023-08-16 2023-08-14 upload slide to git +beepberry @hobby
+x 2023-08-18 2023-07-13 (B) visualization idea for MC? +poly
+x 2023-08-16 2023-08-16 buy electric toothbrush @health
+x 2023-08-18 2023-08-16 listerine @health
+x 2023-08-18 2023-05-26 (A) run wizard llama2 +llm
+x 2023-08-18 2023-05-26 (A) explore wizard llama2 embeddings +llm
+x 2023-08-18 2023-05-26 (A) similarity metric? check out semantic search email +llm

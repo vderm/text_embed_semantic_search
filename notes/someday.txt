@@ -1,0 +1,21 @@
+2023-02-02 logging to CloudWatch +autobot
+2023-04-21 if you have 12'000 buildings, what can you do with the data / value to extract? with one year of data, all over USA
+2023-05-03 requirement_checker -> all algos on and let this function enable/disable the algo logic - base type already implemented, see `requirements.py` file +gargamel
+2023-04-13 template for research projects: githook, docker, poetry, pytest, makefile, structure + document templates, limit filesize to upload, s3bucket
+2023-03-31 front-end so the client can ask "anything interesting today?", "how much did we save?", "anything weird happened?" +gargamel
+2023-02-24 Taso: for a 1-2 zone RTU building -> compare OP vs RL vs ...
+2023-02-24 Taso: how to train a model -> simple interface
+2023-02-07 send Annie-Shan a presi about how BBAI uses AI +mila
+2023-05-01 chat with Francois for cloud support +mila
+2023-04-17 [[j-2023-04-17.md]] @review
+2023-07-10 add monitoring -> send on failure, return [] to CommandService +gargamel
+2023-07-03 matrix profiling for Mathieu -> good/bad building?
+2023-06-13 stumpy example -> Nunzio +fdd
+2023-06-28 ask to get Etienne access to AWS +poly -> necessary for now?
+2023-05-15 context == 0 -> disable some of the monitoring +gargamel
+2023-06-15 data set from all equipment pdf's transformed into markdown; carrier, trane, price, ...; best-practice ashrae 55, ieee... +llm
+2023-06-15 train the llm to then look at the building data and propose solutions +llm
+2023-04-21 https://git.brainboxai.net/v.dermardiros/RTU_Class/-/blob/master/RTU_building.py @review
+2023-05-01 Mathieu's notes: https://brainboxai-my.sharepoint.com/:w:/r/personal/m_lecam_brainboxai_com/_layouts/15/doc2.aspx?sourcedoc=%7Be35177c0-b43a-47a1-b442-4a36354693cf%7D&action=default&cid=4c69c197-04e5-4ec0-a0de-dceae685991d
+2023-05-03 Fatma's notes: https://brainboxai-my.sharepoint.com/:w:/p/f_mtibaa/EaKUZpDPs2lDrC5Lg1W_4wkBEp5qqcV-u_87rk7RsnT3Wg?e=8XNWeI
+2023-05-01 Donna's notes: https://docs.google.com/document/d/1R8EqOyMYi3QI-lShxgp1KecAGoO9apHHrGXGQ9jtpqU/edit

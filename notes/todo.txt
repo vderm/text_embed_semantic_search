@@ -1,0 +1,81 @@
+2023-05-26 (A) chunk text and generate embeddings +llm
+2023-05-26 (A) do the same with saved articles +llm
+2023-05-26 (A) do the same with arxiv articles +llm
+2023-08-09 (A) port pytorch stable diffusion code to tinygrad @learn +sd
+2023-07-31 (A) profiling scripts and models -> run on pytorch vs tinygrad with various backends @learn
+
+2023-08-02 (B) build a schedule/routine @organize
+2023-08-03 (B) reread some of the salary negotiation stuff -> getting fucked at DRW already @job_search
+2023-08-18 (B) read article from NN company @job_search @review
+2023-08-18 (B) write to NN company in Austin and Lugano @job_search
+
+2023-05-02  statistical data analysis: https://www.mcgill.ca/science/files/science/math_527_d1d2_new_-_statistical_data_science_practicum_-_complete.pdf @learn
+2022-12-23  https://github.com/pnnl/neuromancer -> system identification (https://github.com/pnnl/neuromancer/tree/master/examples/system_identification) @review
+2022-12-23  https://github.com/pnnl/slim @review
+2022-10-31  neural laplace work examples @review
+2022-12-15  https://gitlab.nccr-automation.ch/loris.dinatale/pc-node @review
+2023-01-03  https://dtcontrol.model.in.tum.de/ @review
+2023-01-31  https://github.com/ai4healthuol/sssd @review
+2023-03-07  https://github.com/Kanaries/pygwalker @review
+2023-03-07  https://github.com/ydataai/ydata-profiling @review
+2023-03-07  https://jax.readthedocs.io/en/latest/_autosummary/jax.linearize.html @review
+2023-03-22  https://doordash.engineering/2023/03/07/how-to-speed-up-local-development-of-a-docker-application-running-on-aws/
+2023-05-18  world models: https://worldmodels.github.io/ @review
+2023-06-02  windmill https://docs.windmill.dev/docs/getting_started/scripts_quickstart/python @review
+2023-06-29  https://causalnex.readthedocs.io/en/latest/ @review
+2023-06-29  https://github.com/salesforce/PyRCA @review
+2023-07-16  https://www.llamaindex.ai/#top +llm @review
+2023-07-26  MCTS @learn
+2023-07-26  PPO @learn
+2023-07-26  Adam @learn
+2023-07-26  framework for time-series analysis @design
+2023-07-27  opentelemetry @learn
+2023-07-27  https://tavily.com/ +llm @review
+2023-08-18 matrix profiling @review
+2023-08-18 umap and umap on time-series @review
+
+2023-07-27 Watch JuliaCon video: The role of (un)knowns in Julia's UDE modeling https://live.juliacon.org/talk/WQVFEE +julia @review
+2023-07-27 Watch JuliaCon video: Accelerating Model Predictive Control with Machine Learning https://live.juliacon.org/talk/ZVWPTP +julia @review
+2023-07-27 Watch JuliaCon video: Machine learning phase transitions: A probabilistic framework https://live.juliacon.org/talk/9FD73V +julia @review
+2023-07-27 Watch JuliaCon video: On solving optimal control problems with Julia https://live.juliacon.org/talk/HDC8F7 +julia @review
+2023-07-27 Watch JuliaCon video: Keynote: Stephen Wolfram https://live.juliacon.org/talk/VJRZDF +julia @review
+2023-07-27 Watch JuliaCon video: Geometric Control of a Quadrotor : Simulation and Visualization https://live.juliacon.org/talk/QXZFDL +julia @review
+2023-07-27 Watch JuliaCon video: UDEs for parameter estimation in Systems Biology https://live.juliacon.org/talk/9GLADM +julia @review
+2023-07-27 Watch JuliaCon video: MultilayerGraphs.jl: Multilayer Network Science in Julia https://live.juliacon.org/talk/MS7YWQ +julia @review
+2023-07-27 Watch JuliaCon video: PRONTO.jl: Trajectory Optimization in Function Space https://live.juliacon.org/talk/QUFUFV +julia @review
+2023-07-27 Watch JuliaCon video: Using NeuralODEs in real life applications https://live.juliacon.org/talk/EWL3LC +julia @review
+2023-07-27 Watch JuliaCon video: Keynote: Christopher Rackauckas https://live.juliacon.org/talk/YKK7AD +julia @review
+2023-07-27 Watch JuliaCon video: Fast Higher-order Automatic Differentiation for Physical Models https://live.juliacon.org/talk/D8RHE7 +julia @review
+2023-07-27 Watch JuliaCon video: Anti-Patterns: How not to do things in Julia https://live.juliacon.org/talk/PBWWFV +julia @review
+2023-07-27 Watch JuliaCon video: Julia for High-Performance Computing https://live.juliacon.org/talk/PC8PZ8 +julia @review
+2023-07-27 Watch JuliaCon video: The state of JuMP https://live.juliacon.org/talk/XZP9U8 +julia @review
+2023-07-27 Watch JuliaCon video: Using Julia to Optimise Trajectories for Robots with Legs https://live.juliacon.org/talk/GLGFZB +julia @review
+
+2023-12-01 MLE vs MAP +Fundamentals @job_search
+2023-12-01 implement different sort algorithms: comparison sort, heapsort, merge sort, bubble sort, selection sort, quicksort, Shellsort, tree sort +InterviewPrep @job_search
+2023-12-01 NLP models and loss metrics +MLModels @job_search
+2023-12-01 recommender systems +MLModels @job_search
+2023-12-01 huggingface transformers +MLModels @job_search
+2023-12-01 flair +MLModels @job_search
+2023-12-01 nvidia triton api setup on desktop +Serving @job_search @learn
+
+2023-05-26 revisit diff robot files +robot
+2023-05-26 diff bot +robot https://ros-mobile-robots.com/
+
+2023-05-26 reinforcement learning battleship +rl https://towardsdatascience.com/an-artificial-intelligence-learns-to-play-battleship-ebd2cf9adb01 @learn
+2023-05-26 rl from scratch linear tabular +rl https://gist.github.com/alessiot/0a3ec05a1bc4ec499a5a837beaceb1ff @learn
+2023-05-26 simple alphago (does it include the agent tournament part?) +rl https://web.stanford.edu/~surag/posts/alphazero.html @learn
+2023-05-26 cleanrl +rl https://github.com/vwxyzjn/cleanrl @learn
+
+2023-05-26 bot to track finances +finance @organize
+
+2023-08-16 avoid having to do grafting @health
+
+2023-05-26 face bracelet, face scan from pictures +art? @hobby
+2023-08-03 template on beepberry +beepberry @hobby -> wait for documentation to be updated!
+2023-08-14 clay 3d print
+2023-08-14 topo optimization to organic shapes (compute!) @hobby
+2023-06-24  https://www.youtube.com/watch?v=i2O72iMe9ug&ab_channel=YuanmingHu and https://github.com/taichi-dev/taichi and https://github.com/yuanming-hu/spgrid_topo_opt @topo
+
+2023-07-04  https://clients.powerpay.ca/selfservice/login -> VaskeDerma, Eshegs
+2023-08-16  desjardins assurances -> vderm, apple
